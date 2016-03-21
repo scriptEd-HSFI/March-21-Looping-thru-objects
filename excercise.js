@@ -4,6 +4,8 @@ var schedule = {
  wednesday: { morning: "in school", evening: "at the club" }
 };
 
+/* 
+
 Please loop through each day in the schedule object and print out:
 
 On [Monday], I will be:
@@ -13,4 +15,4 @@ On [Monday], I will be:
 You will be printing out 3 lines per day.
 Hint: this requires two loops!
 
-
+*/
